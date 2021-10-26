@@ -138,6 +138,7 @@ body {
 
 .footer-menu li {
     list-style: none;
+    margin-top: .6em;
 }
 
 .footer-menu a {
