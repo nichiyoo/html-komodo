@@ -1,0 +1,84 @@
+{
+    "destination": [{
+        "id": 1,
+        "name": "Padar Island",
+        "url": "assets/img/padar-island.jpg"
+    }, {
+        "id": 2,
+        "name": "Kanawa Island",
+        "url": "assets/img/kanawa-island.jpg"
+    }, {
+        "id": 3,
+        "name": "Kalong Island",
+        "url": "assets/img/kalong-island.jpg"
+    }, {
+        "id": 4,
+        "name": "Rangko Cave",
+        "url": "assets/img/rangko-cave.jpg"
+    }, {
+        "id": 5,
+        "name": "Kelor Island",
+        "url": "assets/img/kelor-island.jpg"
+    }, {
+        "id": 6,
+        "name": "Loh Liang National Park",
+        "url": "assets/img/loh-liang.jpg"
+    }, {
+        "id": 7,
+        "name": "Taka Makassar Island",
+        "url": "assets/img/taka-makassar.jpg"
+    }, {
+        "id": 8,
+        "name": "Fish Market",
+        "url": "assets/img/fish-market.jpg"
+    }, {
+        "id": 9,
+        "name": "Batu Cermin Cave",
+        "url": "assets/img/batu-cermin-cave.jpg"
+    }, {
+        "id": 10,
+        "name": "Cunca Wulang Waterfall",
+        "url": "assets/img/cunca-wulang.jpg"
+    }],
+    "culinary": [{
+        "id": 1,
+        "name": "Baccala Bajo",
+        "url": "assets/img/baccala.jpg"
+    }, {
+        "id": 2,
+        "name": "Atlantis Beach Club",
+        "url": "assets/img/atlantis.jpg"
+    }, {
+        "id": 3,
+        "name": "Carpenter Cafe",
+        "url": "assets/img/carpenter.jpg"
+    }, {
+        "id": 4,
+        "name": "Happy Banana Komodo",
+        "url": "assets/img/happy.jpg"
+    }, {
+        "id": 5,
+        "name": "Atlantis On The Rock",
+        "url": "assets/img/rock.jpg"
+    }, {
+        "id": 6,
+        "name": "Cafe Melinjo",
+        "url": "assets/img/melinjo.jpg"
+    }, {
+        "id": 7,
+        "name": "Bajo Taco",
+        "url": "assets/img/taco.jpg"
+    }, {
+        "id": 8,
+        "name": "Burger Time",
+        "url": "assets/img/burger.jpg"
+    }, {
+        "id": 9,
+        "name": "Molas Cafe",
+        "url": "assets/img/molas.jpg"
+    }, {
+        "id": 10,
+        "name": "La Cucina",
+        "url": "assets/img/cucina.jpg"
+    }]
+}
