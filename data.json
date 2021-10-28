@@ -2,83 +2,53 @@
     "destination": [{
         "id": 1,
         "name": "Padar Island",
-        "url": "assets/img/padar-island.jpg"
+        "url": "assets/img/padar-island.jpg",
+        "description": "Padar Labuan Bajo Island have four bays with colorful sands, most of them are white sands though there are alsk those with grey and pink colors."
     }, {
         "id": 2,
         "name": "Kanawa Island",
-        "url": "assets/img/kanawa-island.jpg"
+        "url": "assets/img/kanawa-island.jpg",
+        "description": "An island with a beautiful blue gradient water, a perfect island for relaxing due to it's peaceful environment, Its turquoise water is exceptionally calm and clear."
     }, {
         "id": 3,
-        "name": "Kalong Island",
-        "url": "assets/img/kalong-island.jpg"
+        "name": "Rangko Cave",
+        "url": "assets/img/rangko-cave.jpg",
+        "description": "A cave that provides nature beauties and have a unique salt water pond with a 3-4 meters depth.The best time to visit is during the low tide."
     }, {
         "id": 4,
-        "name": "Rangko Cave",
-        "url": "assets/img/rangko-cave.jpg"
+        "name": "Kelor Island",
+        "url": "assets/img/kelor-island.jpg",
+        "description": "A peaceful island with soft and pristine sands along with clear waters where you can view the beautiful corals beneath them."
     }, {
         "id": 5,
-        "name": "Kelor Island",
-        "url": "assets/img/kelor-island.jpg"
-    }, {
-        "id": 6,
-        "name": "Loh Liang National Park",
-        "url": "assets/img/loh-liang.jpg"
-    }, {
-        "id": 7,
         "name": "Taka Makassar Island",
-        "url": "assets/img/taka-makassar.jpg"
-    }, {
-        "id": 8,
-        "name": "Fish Market",
-        "url": "assets/img/fish-market.jpg"
-    }, {
-        "id": 9,
-        "name": "Batu Cermin Cave",
-        "url": "assets/img/batu-cermin-cave.jpg"
-    }, {
-        "id": 10,
-        "name": "Cunca Wulang Waterfall",
-        "url": "assets/img/cunca-wulang.jpg"
+        "url": "assets/img/taka-makassar.jpg",
+        "description": "Taka Makassar island and its surrounding coral reef, a perfect island for those who loves to diving, despite it tiny size and diving focus."
     }],
     "culinary": [{
         "id": 1,
         "name": "Baccala Bajo",
-        "url": "assets/img/baccala.jpg"
+        "url": "assets/img/baccala.jpg",
+        "description": "One of the most visited seafood restaurants by tourists, besides selling various types of seafood they also sell vegetarian food."
     }, {
         "id": 2,
-        "name": "Atlantis Beach Club",
-        "url": "assets/img/atlantis.jpg"
+        "name": "Carpenter Cafe",
+        "url": "assets/img/carpenter.jpg",
+        "description": "Specialty cafe with locally sourced casual eats food concept, serves coffee with a typical Flores taste, the location is close to the city center."
     }, {
         "id": 3,
-        "name": "Carpenter Cafe",
-        "url": "assets/img/carpenter.jpg"
+        "name": "Kampung Ujung",
+        "url": "assets/img/kampung-ujung.jpg",
+        "description": "In this place there are stalls and carts selling snacks. The location of Kampung Ujung is close to the port, so most of the sellers offer seafood dishes."
     }, {
         "id": 4,
-        "name": "Happy Banana Komodo",
-        "url": "assets/img/happy.jpg"
+        "name": "Warung Mama",
+        "url": "assets/img/warung-mama.jpeg",
+        "description": " place to eat that serves a variety of Indonesian food that offers a variety of menus start from meat, chicken, fish, squid, shrimp, and stir-fried vegetables."
     }, {
         "id": 5,
-        "name": "Atlantis On The Rock",
-        "url": "assets/img/rock.jpg"
-    }, {
-        "id": 6,
-        "name": "Cafe Melinjo",
-        "url": "assets/img/melinjo.jpg"
-    }, {
-        "id": 7,
-        "name": "Bajo Taco",
-        "url": "assets/img/taco.jpg"
-    }, {
-        "id": 8,
-        "name": "Burger Time",
-        "url": "assets/img/burger.jpg"
-    }, {
-        "id": 9,
-        "name": "Molas Cafe",
-        "url": "assets/img/molas.jpg"
-    }, {
-        "id": 10,
-        "name": "La Cucina",
-        "url": "assets/img/cucina.jpg"
+        "name": "Treetop seafood Restaurant",
+        "url": "assets/img/tree-top.jpg",
+        "description": "Besides serving delicious food, this restaurant also offers beautiful views, so we can enjoy the beautiful waters of Komodo National Park from this place."
     }]
 }

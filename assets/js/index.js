@@ -16,7 +16,7 @@ const getData = async () => {
             var destination = document.createElement('div')
             destination.classList.add('col-12')
             destination.classList.add('col-md-6')
-            destination.classList.add('col-lg-3')
+            destination.classList.add('col-lg-4')
             destination.classList.add('destination-item')
             destination.innerHTML = `
             <div class="destination-image" style="background-image: url(${element.url})">
@@ -27,7 +27,7 @@ const getData = async () => {
                 </button>
                 <div class="destination-detail">
                     <h3>${element.name}</h3>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quo rerum fugiat temporibus voluptatum neque debitis.</p>
+                    <p>${element.description}</p>
                 </div>
             </div>`
             destinationContainer.appendChild(destination)
@@ -40,7 +40,7 @@ const getData = async () => {
             var food = document.createElement('div')
             food.classList.add('col-12')
             food.classList.add('col-md-6')
-            food.classList.add('col-lg-3')
+            food.classList.add('col-lg-4')
             food.classList.add('culinary-item')
             food.innerHTML = `
             <div class="culinary-image" style="background-image: url(${element.url})">
@@ -51,7 +51,7 @@ const getData = async () => {
                 </button>
                 <div class="culinary-detail">
                     <h3>${element.name}</h3>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quo rerum fugiat temporibus voluptatum neque debitis.</p>
+                    <p>${element.description}</p>
                 </div>
             </div>`
             culinaryContainer.appendChild(food)
